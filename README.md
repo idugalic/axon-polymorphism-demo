@@ -40,6 +40,7 @@ tests using Maven:
 $ ./mvnw test
 ```
 ---
+Created with :heart: by [Ivan Dugalic](https://idugalic.github.io/)
 
 [maven]: https://maven.apache.org/ (Maven)
 [axon]: https://axoniq.io/ (Axon)
