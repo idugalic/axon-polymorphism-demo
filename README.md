@@ -1,6 +1,6 @@
 # axon-polymorphism
 
-Inheritance and polymorphism are important concept in object-oriented programming. 
+Inheritance and polymorphism are important concepts in object-oriented programming. 
 You are able to [use these concepts in Axon Framework](https://docs.axoniq.io/reference-guide/implementing-domain-logic/command-handling/aggregate-polymorphism) (since version 4.3).
 
 Please mind that this is a demo application, and that it does not favor inheritance over composition in general. 
