@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pro.idugalic</groupId>
-	<artifactId>axon-polymorphism</artifactId>
+	<artifactId>axon-polymorphism-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>axon-polymorphism</name>
-	<description>Demo project for Spring Boot</description>
+	<name>axon-polymorphism-demo</name>
+	<description>Demo project for Axon</description>
 
 	<properties>
 		<java.version>1.8</java.version>
